@@ -1,0 +1,5 @@
+name = input("What's you name?")
+age = input("How old are you?")
+e_mail = input("Enter you'r email: ")
+print("Hello,", name, "your age's ", age)
+print("Your email: ", e_mail)
